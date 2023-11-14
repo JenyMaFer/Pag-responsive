@@ -60,3 +60,9 @@
         margin-top: -200px;
     }
 }
+@media (min-width:1280px) {
+    #banner img {
+        object-fit: cover;
+        object-position: 0px -160px;
+    }
+}
