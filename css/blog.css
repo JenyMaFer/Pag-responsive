@@ -18,3 +18,8 @@
     height: 180px;
     object-fit: cover;
 }
+#blog img:hover {
+    cursor: pointer;
+    filter: brightness(0.8);
+    transition: .3s all ease-in-out;
+}
